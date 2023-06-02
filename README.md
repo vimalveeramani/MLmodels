@@ -1,5 +1,4 @@
-# MLmodels
-machine learning models
+# Linear regression model
 Project Description: Stock Market Prediction Using Linear Regression
 
 In this project, we aim to build a stock market prediction model using linear regression. The goal is to analyze historical stock market data and develop a model that can forecast future stock prices based on relevant features.
